@@ -21,3 +21,6 @@ vendor/
 # IDEs directories
 .idea
 .vscode
+
+run_test.sh
+gophermarttest-darwin-arm64
